@@ -1,0 +1,98 @@
+#body{
+	
+	background-image:url(../image/background.jpg);
+	background-size:cover;
+	
+}
+#header{
+background-color:#33817f;
+width:1000px;
+height:70px;
+margin-top:-10px;
+}
+
+.logo {
+	height:50px;
+	width:500px;
+}
+.heder-content{
+background-color:#2AAFCB;
+height:40px;
+width:990px;;
+margin-top:7px;
+padding-top:5px;
+padding-left:10px;
+border-bottom-right-radius:25px;
+border-bottom-left-radius:25px;
+}
+#content{
+height:auto;
+width:950px;
+background-color:#2AAFCB;
+
+}
+
+#image{
+float:right;
+margin-top: 25px;
+margin-right:25px;	
+height:200px;
+width:200px;
+background-image:url(../image/adsimage.png);
+}
+
+#browseimage{
+height:20px;
+width:200px;
+float:right;
+margin-right:5px;
+}
+
+#submit-button{
+background-color:#7DB818;
+height:70px;
+width:70px;
+float:right;
+margin-top:-75px;	
+margin-right:25px;	
+font-size:65px;
+ color:#33817f; 
+ 
+  border:hidden; 
+}
+#submit-button:hover{
+	background-color:#FFFFFF;
+}
+#cancel-button{
+background-color:#DC042B;
+height:70px;
+width:70px;
+float:right;
+margin-top:-75px;
+margin-right:100px;	
+}
+
+#cancel-button:hover{
+	background-color:#FFFFFF;
+}
+
+a:link {
+    background-color:transparent;
+    text-decoration:none;
+}
+
+a:visited {
+    color:#33817f;
+    background-color:transparent;
+    text-decoration:none;
+}
+a:hover {
+    color:#BCC820;
+    background-color:transparent;
+   
+}
+a:active {
+    color:#BCC820;
+    background-color:transparent;
+    
+}
